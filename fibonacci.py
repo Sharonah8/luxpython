@@ -2,7 +2,7 @@ name = input("Enter the number: ")
 
 print(f'The fibonacci sequence is ')
 
-
+#define 
 def fib(n):
 
     a = 0
